@@ -1,3 +1,16 @@
+---
+title: "0xL4ugh CTF 23"
+classes: wide
+header:
+  teaser: /assets/images/site-images/0xl4ugh_ctf.jpg
+ribbon: DodgerBlue
+description: "0xL4ugh ctf 23 RE challenges"
+categories:
+  - Reverse Engineering
+toc: true
+---
+
+
 # 0xL4ugh CTF 23 - RE Challenges Writeup
 
 ### Team: Br00f0rs3rs
