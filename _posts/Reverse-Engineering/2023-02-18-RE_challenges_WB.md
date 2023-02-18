@@ -20,7 +20,7 @@ toc: true
 
 When we run this file it will ask us to enter the flag. 
 
-![](/assets/images/reverse-engineering/0xl4ugh/Easy-first-run.PNG)Easy-first-run.PNG
+![](/assets/images/reverse-engineering/0xl4ugh/Easy-first-run.PNG)
 
 So let's look at disassembly in IDA.
 
