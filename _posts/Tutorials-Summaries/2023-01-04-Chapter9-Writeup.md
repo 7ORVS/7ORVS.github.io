@@ -1,5 +1,5 @@
 ---
-title: "Chapter-9 Write-up"
+title: "Chapter-9 PMA Write-up"
 classes: wide
 header:
   teaser: /assets/images/site-images/PMA_logo.jpg
