@@ -36,7 +36,7 @@ All Packers programs take an executable file and produce an executable file also
 
 Packers also can pack the entire EXE file or only `code` and `data` sections
 
-<br>
+
 
 ![](/assets/images/tutorials-summaries/Packing-study-notes-pt1/packing_process.PNG)
 
@@ -84,7 +84,7 @@ As we called it `Decompression/Unpacking stub`, so, the stub will decompress the
 
 ---
 
-## Packing / Unpacking Process Illustrated:
+### Packing / Unpacking Process Illustrated:
 
 <br>
 
@@ -110,7 +110,7 @@ Here, we have a fully unpacked file, the unpacking stub reconstructing the `impo
 
 ---
 
-## how the unpacking stub resolves the import of the original executable?
+### how the unpacking stub resolves the import of the original executable?
 
 Many approaches can be used by unpacking stub to resolve the original executable.
 
@@ -131,8 +131,6 @@ There are many indications that the executable is packed, like:
 - The program has few imports, particularly if the only imports are `LoadLibrary` and `GetProcAddress`
 
 - When the program is opened in IDA Pro, only a small amount of code is recognized by the automatic analysis.
-
-- When the program is opened in OllyDbg, there is a warning that the program may be packed.
 
 - The program shows section names that indicate a particular packer 
 (such as UPX0).
