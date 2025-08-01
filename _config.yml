@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "0x7ORVS"
   avatar : "/assets/images/site-images/horus.jpg"
-  bio    : "Computer science student interested in malware analysis and reverse engineering"
+  bio    : "A guy who's interested in malware analysis and reverse engineering"
   location: "/home"
   links:
     - label: "Website"
