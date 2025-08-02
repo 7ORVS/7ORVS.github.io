@@ -68,6 +68,7 @@ After reviewing Akira's activities since 2023 we can construct this timeline for
 - **March 2025** (45 posts)
 - **January 2025** (44 posts)
 - **June 2025** (42 posts)
+
 These surges may align with ransomware affiliate incentives, end-of-quarter extortion pushes, or recruitment periods.
 
 #### **Victim Location**
@@ -76,7 +77,7 @@ Based on company names, Akira primarily targets USA, Western countries, and Sout
 #### **Types of targeted victims**
  Many organizations are **small to medium enterprises (SMEs)** rather than Fortune 500 companies.
 Indicates Akira favors **less protected environments**, likely with:    
-- Less mature cybersecurity programs.
+- Less mature cybersecurity programs/awareness.
 - Slower incident response capabilities.
 
 #### **Strong capabilities and infrastructure**
@@ -121,6 +122,7 @@ Akira is online on 2 sites on Dark web
 | akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion | Chat      |
 
 ![](/assets/images/apt-profiling/Akira/Akira-DLS.png)
+
 ![](/assets/images/apt-profiling/Akira/Akira-Chat.png)
 
 The DLS site is a terminal-like site, which lets you pass commands to view what you want.
