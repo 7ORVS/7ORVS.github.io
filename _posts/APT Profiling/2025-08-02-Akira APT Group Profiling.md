@@ -59,7 +59,8 @@ After reviewing Akira's activities since 2023 we can construct this timeline for
 | 2023 | June      | June 1, 2023 – June 29, 2023           | 26 separate organizations |
 | 2023 | May       | May 1, 2023 – May 30, 2023             | 39 separate posts         |
 | 2023 | April     | April 29, 2023                         | 9 posts                   |
-### Observations From timeline and victims nature :
+
+### Observations from the timeline and victims nature :
 
 #### **Spikes in activity** noted in:
 - **November 2024** (72 posts)
