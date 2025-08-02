@@ -13,7 +13,10 @@ toc: true
 
 
 ## Overview
-Since emerging in March 2023, the Akira ransomware group has targeted over 890 organizations across North America, Europe, and Australia, impacting a wide range of businesses and critical infrastructure. As of January 1, 2024, the group has reportedly extracted approximately $42 million in ransom payments in ransom payments. Initially focused on Windows systems, Akira’s early ransomware variant was written in C++ and appended the `.akira` extension to encrypted files. In April 2023, the group expanded its operations by developing a Linux variant targeting VMware ESXi virtual machines.. By August 2023, Akira actors began deploying a new Rust-based variant called Megazord, which uses the `.powerranges` extension, and have since used Megazord, Akira, and an updated Akira_v2 variant interchangeably.  Like many attackers, Akira uses ransomware to encrypt files after first breaking into a network, stealing data, and encrypting files. This group also employs a double extortion tactic by demanding a ransom from victims in exchange for file decryption and not leaking stolen information to the public.
+
+Since March 2023, Akira ransomware has impacted a wide range of businesses and critical infrastructure entities across North America, Europe, and Australia. Initially targeting Windows systems, the group expanded its operations in April 2023 by deploying a Linux variant specifically aimed at VMware ESXi virtual machines. By January 1, 2024, the group had compromised over 250 organizations and accrued approximately $42 million USD in ransomware proceeds.
+
+Early variants of Akira were written in C++ and appended a .akira extension to encrypted files. Starting in August 2023, the group began deploying a Rust-based variant known as Megazord, which uses the .powerranges extension. Akira actors continue to use both Akira and Megazord variants, including an updated version referred to as Akira_v2, interchangeably.
 
 ## Origin
 Akira’s developers are likely based in Russia or other former Soviet Union member states. Unlike many ransomware groups operating from Russian-speaking regions, Akira’s malware does not include functionality to terminate execution upon detecting a Russian keyboard layout. However, evidence suggests a Russian origin, as the group has been observed communicating in Russian on dark web cybercrime forums.. Additionally, the victim profile—primarily organizations in the United States, United Kingdom, and Canada—further aligns with patterns seen in other Russian-speaking threat actor groups.
@@ -112,7 +115,7 @@ Akira could exfiltrate 269 GB from one victim. This indicates that this group ha
 
 
 
-## DLS Tour
+## DLS Discovery
 
 Akira is online on 2 sites on Dark web
 
@@ -163,6 +166,11 @@ You can send them message also with contact option
 | Veeam      | Backup & Replication   | CVE-2023-27532   | sophos.com                       |
 | VMware     | ESXi                   | CVE-2024-37085   | microsoft.com                    |
 | VMware     | vSphere Client         | CVE-2021-21972   | qualys.com                       |
+
+
+## Conclusion
+Akira represents a mature and dangerous ransomware threat group with a diverse toolset, cross-platform capabilities, and a history of large-scale data exfiltration. Their consistent evolution, ability to pivot to new languages and platforms, and financial success make them a significant concern for organizations globally. Their operational scope, victim targeting strategy, and technical sophistication indicate a highly organized and well-resourced adversary likely operating from a Russian-speaking region.
+
 
 
 ## References
