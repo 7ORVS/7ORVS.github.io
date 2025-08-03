@@ -9,5 +9,5 @@ main:
     url: /categories/#tutorials-summaries  
   - title: "About Me"
     url: /about/
-  - title: "APT Profiling"
-    url: /categories/#apt-profiling
+  - title: "Threat Actor Profiling"
+    url: /categories/#threat-actor-profiling

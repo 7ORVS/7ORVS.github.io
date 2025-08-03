@@ -1,12 +1,12 @@
 ---
-title: "Akira APT Profiling"
+title: "Akira Ransom Group Profiling"
 classes: wide
 header:
   teaser: /assets/images/site-images/Akira.jpg
 ribbon: Black
 description: "This report delves into Akira ransomware group"
 categories:
-  - APT Profiling
+  - Threat Actor Profiling
 toc: true
 ---
 
@@ -135,9 +135,12 @@ The Leaks option allows you to view all victims affected by Akira, and it's avai
 
 On news option, they talking about their upcoming leaks, they specify the company name and the size of leaked data.
 
-![](/assets/images/apt-profiling/Akira/Akira-Message.png)
+![](/assets/images/apt-profiling/Akira/Akira-News.png)
 
 You can send them message also with contact option
+
+![](/assets/images/apt-profiling/Akira/Akira-Message.png)
+
 ## Exploited CVEs / Tools
 
 #### Tools 
