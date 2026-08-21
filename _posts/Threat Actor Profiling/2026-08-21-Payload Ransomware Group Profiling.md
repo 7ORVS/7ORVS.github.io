@@ -53,19 +53,22 @@ Egypt-specific finding: 6 of the 73 published victims (≈ 8%) are identifiable 
 
 #### Confirmed Egypt-Linked Victims
 
-| **Date**   | **Victim**                             |
-| ---------- | -------------------------------------- |
-| 2026-02-17 | sodic.com (SODIC – real estate)        |
-| 2026-02-19 | Grid Fine Finishes (GFF)               |
-| 2026-04-03 | United Finance Egypt                   |
-| 2026-04-08 | El Wastani Petroleum Company (WASCO)   |
-| 2026-04-16 | orientalweavers.com (Oriental Weavers) |
-| 2026-04-20 | Better House                           |
+- 2026-02-17-sodic.com (SODIC – real estate)
+- 2026-02-19-Grid Fine Finishes (GFF)
+- 2026-04-03-United Finance Egypt
+- 2026-04-08-El Wastani Petroleum Company (WASCO)
+- 2026-04-16-orientalweavers.com (Oriental Weavers)
+- 2026-04-20-Better House
 (High confidence)
 
 ### Sectors
 
-The source material lists five targeted sectors: Manufacturing, Professional Services, Retail & E-Commerce, Financial Services, and Energy & Utilities. This list is assessed as non-exhaustive: the victim timeline (Section 6 / Appendix A) includes entries clearly outside these categories — healthcare (e.g., Royal Bahrain Hospital, a pediatrics clinic), education (a community school, a German school), government (a national IP office), hospitality (hotel groups), and legal services beyond what “Professional Services” alone conveys. Sector victimology should be re-derived directly from the victim list rather than the group's own or a third party's summarized sector tags.
+The source material lists five targeted sectors: 
+- Manufacturing
+- Professional Services
+- Retail & E-Commerce
+- Financial Services
+- Energy & Utilities
 
 (High confidence)
 
